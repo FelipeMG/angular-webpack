@@ -6,5 +6,6 @@ this app was made following the https://angular.io/guide/webpack#webpack-an-intr
 # Instructions
 
 npm install
+
 npm start
 
