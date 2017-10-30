@@ -1,8 +1,8 @@
 # angular-webpack
+______________
+Initial angular app built with webpack
 
-initial webpack app
-
-this app was made following the https://angular.io/guide/webpack#webpack-an-introduction tutorial, this was made only for learning purposes
+This app was made following the https://angular.io/guide/webpack#webpack-an-introduction tutorial, this was made only for learning purposes
 
 # Instructions to run locally
 ______________
@@ -14,3 +14,7 @@ ______________
 # Instructions to build
 ______________
 1. npm run build
+
+# Running the tests
+______________
+1. npm test
